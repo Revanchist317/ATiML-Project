@@ -1,0 +1,5 @@
+numpy
+scikit-image
+bs4
+lxml
+scikit-learn
