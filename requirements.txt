@@ -3,4 +3,4 @@ scikit-image
 bs4
 lxml
 scikit-learn
-opencv-python
+opencv-pythonp
